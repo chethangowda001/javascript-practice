@@ -1,0 +1,33 @@
+.container {
+    width: 300px;
+    height: 1800px;
+    background-color: rgb(97, 201, 243);
+    margin: 1000px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+      background-color: green;
+      position: sticky;
+      bottom: 00px;
+      left: 0px;
+
+
+    
+}
+
+.blue {
+    background-color: blue;
+    position: fixed;
+    top: 100px;
+    right: 0px;
+}
+

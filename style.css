@@ -1,0 +1,50 @@
+body { 
+    background-image: url("wide-angle.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+p { 
+    background-color: rgb(207, 43, 43);
+    padding: 10px;
+    margin: 10px;
+    border-collapse: collapse;
+    border-radius:  100px;
+    color:white;
+    width: cover;
+
+    border-style:outset;
+    padding: 5px;
+    
+    border-radius: 10px;
+    border-width: 10px;
+    border-left-color: gold;
+    border-top-color: silver;
+
+}
+h1 {
+    background-color: blueviolet;
+    margin-left: 10px;
+    color:brown;
+    text-align: center;
+    border-radius: 0rlh;
+    font-family: Danfo;
+
+    border-style: inset;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: silver;
+}
+
+#p1 {
+    background-color:burlywood;
+}
+
+.para {
+    background-color: darkcyan;
+}
